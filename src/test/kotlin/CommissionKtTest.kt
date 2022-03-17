@@ -71,7 +71,7 @@ class CommissionKtTest {
         )
 
         // assert
-        assertEquals(1_500_00, result)
+        assertEquals(1_500_00_0000000, result)
     }
 
     @Test
